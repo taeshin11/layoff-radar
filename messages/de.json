@@ -1,0 +1,13 @@
+{
+  "nav": { "home": "Startseite", "companies": "Unternehmen", "sectors": "Sektoren", "tracker": "Jahrestracker", "search": "Suchen" },
+  "hero": { "title": "Tech-Entlassungstracker 2025", "subtitle": "Echtzeitdaten zu Entlassungen, Einstellungsstopps und Stellenabbau in Tech-Unternehmen", "lastUpdated": "Zuletzt aktualisiert", "ytdTotal": "Stellen abgebaut 2024", "eventsTracked": "Erfasste Ereignisse" },
+  "feed": { "jobsCut": "Stellen abgebaut", "sector": "Sektor", "source": "Quelle", "viewCompany": "Unternehmen anzeigen", "recentLayoffs": "Aktuelle Entlassungen", "noResults": "Keine Entlassungsereignisse gefunden." },
+  "company": { "layoffHistory": "Entlassungshistorie", "hiringSignals": "Einstellungssignale", "relatedCompanies": "Ähnliche Unternehmen", "viewJobs": "Stellenangebote ansehen", "totalCut": "Gesamte abgebaute Stellen", "rounds": "Entlassungsrunden", "currentStatus": "Aktueller Status", "linkedinJobs": "LinkedIn-Jobs", "indeedJobs": "Indeed-Jobs" },
+  "month": { "totalCut": "Gesamt abgebaut", "topCompanies": "Top Unternehmen", "sectorBreakdown": "Sektoraufschlüsselung", "eventsThisMonth": "Ereignisse diesen Monat" },
+  "sector": { "trendLine": "Trend", "stillHiring": "Stellt noch ein", "allEvents": "Alle Ereignisse", "totalLayoffs": "Gesamte Entlassungen", "companiesAffected": "Betroffene Unternehmen" },
+  "tracker": { "title": "Jahres-Entlassungstracker", "subtitle": "Gesamte abgebaute Stellen in Tech 2024", "byMonth": "Nach Monat", "bySector": "Nach Sektor" },
+  "filter": { "sector": "Sektor", "month": "Monat", "size": "Größe", "clear": "Filter löschen", "allSectors": "Alle Sektoren", "allMonths": "Alle Monate", "allSizes": "Alle Größen", "small": "< 100", "medium": "100–1.000", "large": "1.000+" },
+  "status": { "hiring": "Stellt ein", "freeze": "Einstellungsstopp", "layoffs": "Aktive Entlassungen" },
+  "footer": { "todayVisits": "Heute", "totalVisits": "Gesamt", "copyright": "© 2025 LayoffRadar. Daten aus öffentlichen Quellen.", "disclaimer": "Alle Daten stammen aus öffentlichen Informationen." },
+  "common": { "loading": "Lädt...", "noData": "Keine Daten verfügbar", "updated": "Aktualisiert", "employees": "Mitarbeiter", "company": "Unternehmen", "date": "Datum", "count": "Anzahl", "percentage": "% der Belegschaft" }
+}

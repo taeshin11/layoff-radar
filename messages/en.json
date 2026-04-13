@@ -1,0 +1,87 @@
+{
+  "nav": {
+    "home": "Home",
+    "companies": "Companies",
+    "sectors": "Sectors",
+    "tracker": "YTD Tracker",
+    "search": "Search"
+  },
+  "hero": {
+    "title": "Tech Layoff Tracker 2025",
+    "subtitle": "Real-time data on tech company layoffs, hiring freezes, and job cuts",
+    "lastUpdated": "Last updated",
+    "ytdTotal": "Jobs Cut in 2024",
+    "eventsTracked": "Events Tracked"
+  },
+  "feed": {
+    "jobsCut": "jobs cut",
+    "sector": "Sector",
+    "source": "Source",
+    "viewCompany": "View Company",
+    "recentLayoffs": "Recent Layoffs",
+    "noResults": "No layoff events found matching your filters."
+  },
+  "company": {
+    "layoffHistory": "Layoff History",
+    "hiringSignals": "Hiring Signals",
+    "relatedCompanies": "Related Companies",
+    "viewJobs": "View Open Jobs",
+    "totalCut": "Total Jobs Cut",
+    "rounds": "Layoff Rounds",
+    "currentStatus": "Current Status",
+    "linkedinJobs": "LinkedIn Jobs",
+    "indeedJobs": "Indeed Jobs"
+  },
+  "month": {
+    "totalCut": "Total Jobs Cut",
+    "topCompanies": "Top Companies",
+    "sectorBreakdown": "Sector Breakdown",
+    "eventsThisMonth": "Events This Month"
+  },
+  "sector": {
+    "trendLine": "Trend",
+    "stillHiring": "Still Hiring",
+    "allEvents": "All Events",
+    "totalLayoffs": "Total Layoffs",
+    "companiesAffected": "Companies Affected"
+  },
+  "tracker": {
+    "title": "Year-to-Date Layoff Tracker",
+    "subtitle": "Total jobs cut in tech in 2024",
+    "byMonth": "By Month",
+    "bySector": "By Sector"
+  },
+  "filter": {
+    "sector": "Sector",
+    "month": "Month",
+    "size": "Size",
+    "clear": "Clear filters",
+    "allSectors": "All Sectors",
+    "allMonths": "All Months",
+    "allSizes": "All Sizes",
+    "small": "< 100",
+    "medium": "100–1,000",
+    "large": "1,000+"
+  },
+  "status": {
+    "hiring": "Hiring",
+    "freeze": "Hiring Freeze",
+    "layoffs": "Active Layoffs"
+  },
+  "footer": {
+    "todayVisits": "Today",
+    "totalVisits": "Total",
+    "copyright": "© 2025 LayoffRadar. Data sourced from public reports.",
+    "disclaimer": "All data is sourced from publicly available information."
+  },
+  "common": {
+    "loading": "Loading...",
+    "noData": "No data available",
+    "updated": "Updated",
+    "employees": "employees",
+    "company": "Company",
+    "date": "Date",
+    "count": "Count",
+    "percentage": "% of workforce"
+  }
+}

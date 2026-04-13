@@ -1,0 +1,13 @@
+{
+  "nav": { "home": "Accueil", "companies": "Entreprises", "sectors": "Secteurs", "tracker": "Suivi annuel", "search": "Rechercher" },
+  "hero": { "title": "Suivi des licenciements tech 2025", "subtitle": "Données en temps réel sur les licenciements, gels d'embauche et suppressions d'emplois dans la tech", "lastUpdated": "Dernière mise à jour", "ytdTotal": "Emplois supprimés en 2024", "eventsTracked": "Événements suivis" },
+  "feed": { "jobsCut": "emplois supprimés", "sector": "Secteur", "source": "Source", "viewCompany": "Voir l'entreprise", "recentLayoffs": "Licenciements récents", "noResults": "Aucun événement de licenciement trouvé." },
+  "company": { "layoffHistory": "Historique des licenciements", "hiringSignals": "Signaux d'embauche", "relatedCompanies": "Entreprises similaires", "viewJobs": "Voir les offres d'emploi", "totalCut": "Total des emplois supprimés", "rounds": "Vagues de licenciements", "currentStatus": "Statut actuel", "linkedinJobs": "Emplois LinkedIn", "indeedJobs": "Emplois Indeed" },
+  "month": { "totalCut": "Total supprimé", "topCompanies": "Principales entreprises", "sectorBreakdown": "Répartition par secteur", "eventsThisMonth": "Événements ce mois" },
+  "sector": { "trendLine": "Tendance", "stillHiring": "Recrute encore", "allEvents": "Tous les événements", "totalLayoffs": "Total licenciements", "companiesAffected": "Entreprises touchées" },
+  "tracker": { "title": "Suivi annuel des licenciements", "subtitle": "Total des emplois supprimés dans la tech en 2024", "byMonth": "Par mois", "bySector": "Par secteur" },
+  "filter": { "sector": "Secteur", "month": "Mois", "size": "Taille", "clear": "Effacer les filtres", "allSectors": "Tous les secteurs", "allMonths": "Tous les mois", "allSizes": "Toutes les tailles", "small": "< 100", "medium": "100–1 000", "large": "1 000+" },
+  "status": { "hiring": "Recrute", "freeze": "Gel d'embauche", "layoffs": "Licenciements actifs" },
+  "footer": { "todayVisits": "Aujourd'hui", "totalVisits": "Total", "copyright": "© 2025 LayoffRadar. Données issues de sources publiques.", "disclaimer": "Toutes les données proviennent d'informations publiques." },
+  "common": { "loading": "Chargement...", "noData": "Aucune donnée disponible", "updated": "Mis à jour", "employees": "employés", "company": "Entreprise", "date": "Date", "count": "Nombre", "percentage": "% des effectifs" }
+}

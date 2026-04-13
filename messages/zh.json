@@ -1,0 +1,13 @@
+{
+  "nav": { "home": "首页", "companies": "公司", "sectors": "行业", "tracker": "年度追踪", "search": "搜索" },
+  "hero": { "title": "科技裁员追踪器 2025", "subtitle": "实时追踪科技公司裁员、招聘冻结和岗位削减数据", "lastUpdated": "最后更新", "ytdTotal": "2024年裁员总数", "eventsTracked": "追踪事件数" },
+  "feed": { "jobsCut": "人被裁", "sector": "行业", "source": "来源", "viewCompany": "查看公司", "recentLayoffs": "最近裁员", "noResults": "未找到符合条件的裁员事件。" },
+  "company": { "layoffHistory": "裁员历史", "hiringSignals": "招聘信号", "relatedCompanies": "相关公司", "viewJobs": "查看职位", "totalCut": "总裁员人数", "rounds": "裁员轮次", "currentStatus": "当前状态", "linkedinJobs": "LinkedIn职位", "indeedJobs": "Indeed职位" },
+  "month": { "totalCut": "总裁员人数", "topCompanies": "主要公司", "sectorBreakdown": "行业分布", "eventsThisMonth": "本月事件" },
+  "sector": { "trendLine": "趋势", "stillHiring": "仍在招聘", "allEvents": "所有事件", "totalLayoffs": "总裁员数", "companiesAffected": "受影响公司" },
+  "tracker": { "title": "年度裁员追踪器", "subtitle": "2024年科技行业总裁员数", "byMonth": "按月份", "bySector": "按行业" },
+  "filter": { "sector": "行业", "month": "月份", "size": "规模", "clear": "清除筛选", "allSectors": "所有行业", "allMonths": "所有月份", "allSizes": "所有规模", "small": "少于100人", "medium": "100–1,000人", "large": "1,000人以上" },
+  "status": { "hiring": "招聘中", "freeze": "招聘冻结", "layoffs": "裁员中" },
+  "footer": { "todayVisits": "今日", "totalVisits": "总计", "copyright": "© 2025 LayoffRadar. 数据来源于公开报道。", "disclaimer": "所有数据均来源于公开信息。" },
+  "common": { "loading": "加载中...", "noData": "暂无数据", "updated": "已更新", "employees": "名员工", "company": "公司", "date": "日期", "count": "数量", "percentage": "% 人员" }
+}

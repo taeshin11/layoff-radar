@@ -1,0 +1,13 @@
+{
+  "nav": { "home": "Início", "companies": "Empresas", "sectors": "Setores", "tracker": "Rastreador Anual", "search": "Pesquisar" },
+  "hero": { "title": "Rastreador de Demissões Tech 2025", "subtitle": "Dados em tempo real sobre demissões, congelamentos de contratação e cortes de emprego em empresas tech", "lastUpdated": "Última atualização", "ytdTotal": "Empregos cortados em 2024", "eventsTracked": "Eventos rastreados" },
+  "feed": { "jobsCut": "empregos cortados", "sector": "Setor", "source": "Fonte", "viewCompany": "Ver empresa", "recentLayoffs": "Demissões recentes", "noResults": "Nenhum evento de demissão encontrado." },
+  "company": { "layoffHistory": "Histórico de demissões", "hiringSignals": "Sinais de contratação", "relatedCompanies": "Empresas relacionadas", "viewJobs": "Ver vagas de emprego", "totalCut": "Total de empregos cortados", "rounds": "Rodadas de demissão", "currentStatus": "Status atual", "linkedinJobs": "Vagas no LinkedIn", "indeedJobs": "Vagas no Indeed" },
+  "month": { "totalCut": "Total cortado", "topCompanies": "Principais empresas", "sectorBreakdown": "Divisão por setor", "eventsThisMonth": "Eventos neste mês" },
+  "sector": { "trendLine": "Tendência", "stillHiring": "Ainda contratando", "allEvents": "Todos os eventos", "totalLayoffs": "Total de demissões", "companiesAffected": "Empresas afetadas" },
+  "tracker": { "title": "Rastreador Anual de Demissões", "subtitle": "Total de empregos cortados em tech em 2024", "byMonth": "Por mês", "bySector": "Por setor" },
+  "filter": { "sector": "Setor", "month": "Mês", "size": "Tamanho", "clear": "Limpar filtros", "allSectors": "Todos os setores", "allMonths": "Todos os meses", "allSizes": "Todos os tamanhos", "small": "< 100", "medium": "100–1.000", "large": "1.000+" },
+  "status": { "hiring": "Contratando", "freeze": "Congelamento de contratação", "layoffs": "Demissões ativas" },
+  "footer": { "todayVisits": "Hoje", "totalVisits": "Total", "copyright": "© 2025 LayoffRadar. Dados de fontes públicas.", "disclaimer": "Todos os dados são de informações públicas." },
+  "common": { "loading": "Carregando...", "noData": "Sem dados disponíveis", "updated": "Atualizado", "employees": "funcionários", "company": "Empresa", "date": "Data", "count": "Número", "percentage": "% da equipe" }
+}

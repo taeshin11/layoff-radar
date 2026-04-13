@@ -1,0 +1,13 @@
+{
+  "nav": { "home": "ホーム", "companies": "企業", "sectors": "セクター", "tracker": "年間追跡", "search": "検索" },
+  "hero": { "title": "テックレイオフトラッカー 2025", "subtitle": "テック企業のレイオフ・採用凍結・人員削減のリアルタイムデータ", "lastUpdated": "最終更新", "ytdTotal": "2024年削減数", "eventsTracked": "追跡イベント数" },
+  "feed": { "jobsCut": "人削減", "sector": "セクター", "source": "ソース", "viewCompany": "企業を見る", "recentLayoffs": "最近のレイオフ", "noResults": "該当するレイオフイベントはありません。" },
+  "company": { "layoffHistory": "レイオフ履歴", "hiringSignals": "採用シグナル", "relatedCompanies": "関連企業", "viewJobs": "求人を見る", "totalCut": "合計削減数", "rounds": "レイオフ回数", "currentStatus": "現在の状況", "linkedinJobs": "LinkedIn求人", "indeedJobs": "Indeed求人" },
+  "month": { "totalCut": "合計削減数", "topCompanies": "トップ企業", "sectorBreakdown": "セクター内訳", "eventsThisMonth": "今月のイベント" },
+  "sector": { "trendLine": "トレンド", "stillHiring": "採用中", "allEvents": "全イベント", "totalLayoffs": "合計レイオフ", "companiesAffected": "影響を受けた企業" },
+  "tracker": { "title": "年間レイオフトラッカー", "subtitle": "2024年テック業界の総削減数", "byMonth": "月別", "bySector": "セクター別" },
+  "filter": { "sector": "セクター", "month": "月", "size": "規模", "clear": "フィルターをクリア", "allSectors": "全セクター", "allMonths": "全月", "allSizes": "全規模", "small": "100人未満", "medium": "100〜1,000人", "large": "1,000人以上" },
+  "status": { "hiring": "採用中", "freeze": "採用凍結", "layoffs": "レイオフ中" },
+  "footer": { "todayVisits": "本日", "totalVisits": "合計", "copyright": "© 2025 LayoffRadar. 公開情報に基づく。", "disclaimer": "全データは公開情報を元にしています。" },
+  "common": { "loading": "読み込み中...", "noData": "データなし", "updated": "更新済み", "employees": "人", "company": "企業", "date": "日付", "count": "人数", "percentage": "% 人員" }
+}

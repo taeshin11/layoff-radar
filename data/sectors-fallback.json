@@ -1,0 +1,16 @@
+[
+  { "slug": "tech", "name": "Tech", "totalLayoffs2024": 19414, "companies": ["google", "microsoft", "ibm", "apple"] },
+  { "slug": "e-commerce", "name": "E-Commerce", "totalLayoffs2024": 39650, "companies": ["amazon", "ebay", "wayfair", "shopify"] },
+  { "slug": "hardware", "name": "Hardware", "totalLayoffs2024": 28900, "companies": ["dell", "intel", "peloton", "qualcomm"] },
+  { "slug": "saas", "name": "SaaS", "totalLayoffs2024": 18250, "companies": ["salesforce", "sap", "dropbox", "zoom", "workday"] },
+  { "slug": "social-media", "name": "Social Media", "totalLayoffs2024": 1170, "companies": ["meta", "snap", "discord", "twitter", "bumble"] },
+  { "slug": "gaming", "name": "Gaming", "totalLayoffs2024": 4370, "companies": ["unity", "activision", "ea"] },
+  { "slug": "automotive", "name": "Automotive", "totalLayoffs2024": 14000, "companies": ["tesla", "rivian", "lucid", "carvana"] },
+  { "slug": "fintech", "name": "FinTech", "totalLayoffs2024": 2650, "companies": ["paypal", "robinhood", "stripe", "klarna"] },
+  { "slug": "media", "name": "Media", "totalLayoffs2024": 2000, "companies": ["spotify", "twitch", "netflix"] },
+  { "slug": "networking", "name": "Networking", "totalLayoffs2024": 10000, "companies": ["cisco"] },
+  { "slug": "crypto", "name": "Crypto", "totalLayoffs2024": 950, "companies": ["coinbase", "blockchain-com"] },
+  { "slug": "real-estate", "name": "Real Estate", "totalLayoffs2024": 0, "companies": ["opendoor", "redfin", "zillow"] },
+  { "slug": "ride-sharing", "name": "Ride Sharing", "totalLayoffs2024": 0, "companies": ["lyft"] },
+  { "slug": "delivery", "name": "Delivery", "totalLayoffs2024": 0, "companies": ["doordash"] }
+]

@@ -1,0 +1,13 @@
+{
+  "nav": { "home": "Inicio", "companies": "Empresas", "sectors": "Sectores", "tracker": "Rastreador Anual", "search": "Buscar" },
+  "hero": { "title": "Rastreador de Despidos Tech 2025", "subtitle": "Datos en tiempo real sobre despidos, congelaciones de contratación y recortes de empleo en empresas tech", "lastUpdated": "Última actualización", "ytdTotal": "Empleos recortados en 2024", "eventsTracked": "Eventos rastreados" },
+  "feed": { "jobsCut": "empleos recortados", "sector": "Sector", "source": "Fuente", "viewCompany": "Ver empresa", "recentLayoffs": "Despidos recientes", "noResults": "No se encontraron eventos de despido." },
+  "company": { "layoffHistory": "Historial de despidos", "hiringSignals": "Señales de contratación", "relatedCompanies": "Empresas relacionadas", "viewJobs": "Ver ofertas de trabajo", "totalCut": "Total de empleos recortados", "rounds": "Rondas de despidos", "currentStatus": "Estado actual", "linkedinJobs": "Empleos en LinkedIn", "indeedJobs": "Empleos en Indeed" },
+  "month": { "totalCut": "Total de empleos recortados", "topCompanies": "Principales empresas", "sectorBreakdown": "Desglose por sector", "eventsThisMonth": "Eventos este mes" },
+  "sector": { "trendLine": "Tendencia", "stillHiring": "Aún contratando", "allEvents": "Todos los eventos", "totalLayoffs": "Total de despidos", "companiesAffected": "Empresas afectadas" },
+  "tracker": { "title": "Rastreador de Despidos Anual", "subtitle": "Total de empleos recortados en tech en 2024", "byMonth": "Por mes", "bySector": "Por sector" },
+  "filter": { "sector": "Sector", "month": "Mes", "size": "Tamaño", "clear": "Limpiar filtros", "allSectors": "Todos los sectores", "allMonths": "Todos los meses", "allSizes": "Todos los tamaños", "small": "< 100", "medium": "100–1,000", "large": "1,000+" },
+  "status": { "hiring": "Contratando", "freeze": "Congelación de contratación", "layoffs": "Despidos activos" },
+  "footer": { "todayVisits": "Hoy", "totalVisits": "Total", "copyright": "© 2025 LayoffRadar. Datos de fuentes públicas.", "disclaimer": "Todos los datos provienen de información pública." },
+  "common": { "loading": "Cargando...", "noData": "Sin datos disponibles", "updated": "Actualizado", "employees": "empleados", "company": "Empresa", "date": "Fecha", "count": "Número", "percentage": "% de plantilla" }
+}

@@ -1,0 +1,87 @@
+{
+  "nav": {
+    "home": "홈",
+    "companies": "기업",
+    "sectors": "섹터",
+    "tracker": "연간 추적기",
+    "search": "검색"
+  },
+  "hero": {
+    "title": "기술 업계 해고 추적기 2025",
+    "subtitle": "기술 기업의 해고, 채용 동결, 감원에 대한 실시간 데이터",
+    "lastUpdated": "마지막 업데이트",
+    "ytdTotal": "2024년 감원 수",
+    "eventsTracked": "추적된 이벤트"
+  },
+  "feed": {
+    "jobsCut": "명 해고",
+    "sector": "섹터",
+    "source": "출처",
+    "viewCompany": "기업 보기",
+    "recentLayoffs": "최근 해고",
+    "noResults": "조건에 맞는 해고 이벤트가 없습니다."
+  },
+  "company": {
+    "layoffHistory": "해고 이력",
+    "hiringSignals": "채용 신호",
+    "relatedCompanies": "관련 기업",
+    "viewJobs": "채용 공고 보기",
+    "totalCut": "총 해고 수",
+    "rounds": "해고 횟수",
+    "currentStatus": "현재 상태",
+    "linkedinJobs": "LinkedIn 채용",
+    "indeedJobs": "Indeed 채용"
+  },
+  "month": {
+    "totalCut": "총 감원 수",
+    "topCompanies": "상위 기업",
+    "sectorBreakdown": "섹터 분류",
+    "eventsThisMonth": "이번 달 이벤트"
+  },
+  "sector": {
+    "trendLine": "트렌드",
+    "stillHiring": "채용 중",
+    "allEvents": "모든 이벤트",
+    "totalLayoffs": "총 해고 수",
+    "companiesAffected": "영향 받은 기업"
+  },
+  "tracker": {
+    "title": "연간 해고 추적기",
+    "subtitle": "2024년 기술 업계 총 감원 수",
+    "byMonth": "월별",
+    "bySector": "섹터별"
+  },
+  "filter": {
+    "sector": "섹터",
+    "month": "월",
+    "size": "규모",
+    "clear": "필터 초기화",
+    "allSectors": "모든 섹터",
+    "allMonths": "모든 월",
+    "allSizes": "모든 규모",
+    "small": "100명 미만",
+    "medium": "100–1,000명",
+    "large": "1,000명 이상"
+  },
+  "status": {
+    "hiring": "채용 중",
+    "freeze": "채용 동결",
+    "layoffs": "해고 진행 중"
+  },
+  "footer": {
+    "todayVisits": "오늘",
+    "totalVisits": "전체",
+    "copyright": "© 2025 LayoffRadar. 공개 자료 기반.",
+    "disclaimer": "모든 데이터는 공개된 정보를 바탕으로 합니다."
+  },
+  "common": {
+    "loading": "로딩 중...",
+    "noData": "데이터 없음",
+    "updated": "업데이트됨",
+    "employees": "명",
+    "company": "기업",
+    "date": "날짜",
+    "count": "수",
+    "percentage": "% 인력"
+  }
+}
