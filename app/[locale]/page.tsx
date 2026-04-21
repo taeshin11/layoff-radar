@@ -114,10 +114,6 @@ export default async function HomePage({
             </div>
           </div>
 
-          {/* Adsterra Native Banner placeholder */}
-          <div id="adsterra-native-banner" aria-hidden="true" className="w-full my-6 min-h-[90px] bg-rose-50 rounded-xl flex items-center justify-center text-xs text-rose-200">
-            {/* Native Banner Ad */}
-          </div>
         </section>
 
         {/* Monthly Chart */}
@@ -169,12 +165,6 @@ export default async function HomePage({
           <h2 className="text-xl font-bold text-rose-800 mb-4">{tFeed("recentLayoffs")}</h2>
           <LayoffTable events={recentLayoffs} />
 
-          {/* Adsterra Display Banner placeholder */}
-          <div id="adsterra-display-banner" className="flex justify-center my-8">
-            <div className="w-full max-w-2xl min-h-[90px] bg-rose-50 rounded-xl flex items-center justify-center text-xs text-rose-200">
-              {/* Display Banner Ad */}
-            </div>
-          </div>
         </section>
       <AdsterraNativeBanner />
       <AdsterraDisplay />
