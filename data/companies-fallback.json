@@ -5,7 +5,7 @@
     "sector": "tech",
     "hiringStatus": "hiring",
     "totalLayoffs": 15000,
-    "lastLayoffDate": "2025-03-18"
+    "lastLayoffDate": "2026-03-18"
   },
   {
     "slug": "microsoft",
@@ -13,7 +13,7 @@
     "sector": "tech",
     "hiringStatus": "hiring",
     "totalLayoffs": 17900,
-    "lastLayoffDate": "2025-05-13"
+    "lastLayoffDate": "2026-05-13"
   },
   {
     "slug": "amazon",
@@ -45,7 +45,7 @@
     "sector": "saas",
     "hiringStatus": "freeze",
     "totalLayoffs": 9000,
-    "lastLayoffDate": "2025-02-05"
+    "lastLayoffDate": "2026-02-05"
   },
   {
     "slug": "spotify",
@@ -125,7 +125,7 @@
     "sector": "networking",
     "hiringStatus": "freeze",
     "totalLayoffs": 14000,
-    "lastLayoffDate": "2025-02-20"
+    "lastLayoffDate": "2026-02-20"
   },
   {
     "slug": "dell",
@@ -309,7 +309,7 @@
     "sector": "hardware",
     "hiringStatus": "freeze",
     "totalLayoffs": 18000,
-    "lastLayoffDate": "2025-01-15"
+    "lastLayoffDate": "2026-01-15"
   },
   {
     "slug": "dropbox",
@@ -349,6 +349,6 @@
     "sector": "edtech",
     "hiringStatus": "layoffs",
     "totalLayoffs": 248,
-    "lastLayoffDate": "2025-01-08"
+    "lastLayoffDate": "2026-01-08"
   }
 ]
