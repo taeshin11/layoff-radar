@@ -16,6 +16,9 @@ import {
 } from "@/lib/data";
 import { routing } from "@/i18n/routing";
 
+import { AdsterraNativeBanner } from '@/components/ads/AdsterraNativeBanner';
+import { AdsterraDisplay } from '@/components/ads/AdsterraDisplay';
+
 export const revalidate = 3600;
 
 export function generateStaticParams() {
@@ -173,6 +176,8 @@ export default async function HomePage({
             </div>
           </div>
         </section>
+      <AdsterraNativeBanner />
+      <AdsterraDisplay />
       </main>
       <Footer />
     </>

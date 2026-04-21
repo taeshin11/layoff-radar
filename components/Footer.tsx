@@ -1,10 +1,14 @@
 "use client";
 import { useTranslations } from "next-intl";
 import { useEffect, useState } from "react";
+import Link from "next/link";
+import { useParams } from "next/navigation";
 import { TrendingDown } from "lucide-react";
 
 export default function Footer() {
   const t = useTranslations("footer");
+  const params = useParams();
+  const locale = (params?.locale as string) ?? "en";
   const [visits, setVisits] = useState<{ today: number; total: number } | null>(null);
 
   useEffect(() => {
@@ -32,6 +36,12 @@ export default function Footer() {
             <span>{t("copyright")}</span>
           </div>
         </div>
+        <nav className="flex flex-wrap justify-center gap-x-6 gap-y-2 mt-4 text-xs text-rose-400">
+          <Link href={`/${locale}/about`} className="hover:text-rose-600 transition-colors">About</Link>
+          <Link href={`/${locale}/how-to-use`} className="hover:text-rose-600 transition-colors">How to Use / FAQ</Link>
+          <Link href={`/${locale}/privacy`} className="hover:text-rose-600 transition-colors">Privacy Policy</Link>
+          <Link href={`/${locale}/terms`} className="hover:text-rose-600 transition-colors">Terms of Use</Link>
+        </nav>
       </div>
     </footer>
   );

@@ -2,7 +2,7 @@ import { MetadataRoute } from "next";
 import { getCompanies, getSectors, getAllMonths } from "@/lib/data";
 import { routing } from "@/i18n/routing";
 
-const BASE_URL = "https://layoff-radar.vercel.app";
+const BASE_URL = "https://layoff-radar-green.vercel.app";
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const locales = routing.locales;
@@ -53,5 +53,14 @@ export default function sitemap(): MetadataRoute.Sitemap {
     }))
   );
 
-  return [...homepages, ...staticPages, ...companyPages, ...sectorPages, ...monthPages];
+  const contentPages = locales.flatMap((locale) =>
+    ["about", "how-to-use", "privacy", "terms"].map((page) => ({
+      url: `${BASE_URL}/${locale}/${page}`,
+      lastModified: new Date(),
+      changeFrequency: "monthly" as const,
+      priority: 0.5,
+    }))
+  );
+
+  return [...homepages, ...staticPages, ...contentPages, ...companyPages, ...sectorPages, ...monthPages];
 }
